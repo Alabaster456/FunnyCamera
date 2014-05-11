@@ -1,0 +1,102 @@
+#color {
+  background-color:cyan;
+}
+#camera {
+  position:fixed;
+  margin-left:270px;
+  margin-top:100px;
+}
+#clicker {
+  position:fixed;
+  margin-left:350px; margin-top:264px;
+}
+#message {
+  position:fixed;
+  color:darkgreen;
+  font-family:cursive;
+  text-align:center;
+  margin-left:300px;
+  margin-top:80px;
+}
+#funnyperson {
+  position:fixed;
+  margin-left:740px;
+  margin-top:200px;
+  display:none;
+  border:1px solid black;
+}
+#text1 {
+  position:fixed;
+  margin-left:700px;
+  margin-top:500px;
+  font-family:cursive;
+  color: darkgreen;
+  display:none;
+}
+#funnyperson2 {
+  position:fixed;
+  margin-left:740px;
+  margin-top:200px;
+  height:250px;
+  width:250px;
+  display:none;
+}
+#text2 {
+  position:fixed;
+  margin-left:700px;
+  margin-top:500px;
+  font-family:cursive;
+  color: darkgreen;
+  display:none;
+}
+#kanye {
+  position:fixed;
+  margin-left:740px;
+  margin-top:200px;
+  height:200px;
+  width:180px;
+  display:none;
+}
+#text3 {
+  position:fixed;
+  margin-left:730px;
+  margin-top:440px;
+  font-family:cursive;
+  color:darkgreen;
+  display:none;
+}
+#bum {
+  position:fixed;
+  margin-left:740px;
+  margin-top:240px;
+  height:200px;
+  width:200px;
+  border:1px black solid;
+  display:none;
+}
+#text4 {
+  position:fixed;
+  margin-left:700px;
+  margin-top:480px;
+  font-family:cursive;
+  color:darkgreen;
+  display:none;
+}
+#crazybum {
+ position:fixed;
+  margin-left:740px;
+  margin-top:220px;
+  height:200px;
+  width:200px;
+  border: 1px solid black;
+  
+  display:none;
+}
+#text5 {
+  position:absolute;
+  margin-left:700px;
+  margin-top:460px;
+  font-family:cursive;
+  color: darkgreen;
+  display:none;
+}
