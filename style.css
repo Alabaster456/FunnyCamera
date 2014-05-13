@@ -100,3 +100,71 @@
   color: darkgreen;
   display:none;
 }
+#asian {
+  position:fixed;
+  margin-left:750px;
+  margin-top:230px;
+  height:200px;
+  width:200px;
+  display:none;
+}
+#text6 {
+  position:fixed;
+  margin-left:710px;
+  margin-top:470px;
+  font-family:cursive;
+  color:darkgreen;
+  display:none;
+}
+#gorilla {
+position:fixed;
+height:200px;
+  width:250px;
+  margin-left:690px;
+  margin-top:220px;
+  border: 1px solid black;
+  display:none;
+}
+#text7 {
+  position:fixed;
+  margin-left:710px;
+  margin-top:450px;
+  color:yellow;
+  font-family:cursive;
+  font-size:30px;
+  display:none;
+}
+#woman {
+  position:fixed;
+    margin-left:720px;
+  margin-top:200px;
+  border: 1px solid black;
+  display:none;
+}
+#text8 {
+  position:fixed;
+  margin-left:720px;
+  margin-top:480px;
+  font-family:cursive;
+  color: darkgreen;
+  display:none;
+}
+#uglybaby {
+  position:fixed;
+  height:250px;
+  border: 1px solid black;
+margin-left:740px;
+  margin-top:200px;
+  display:none;
+}
+#text9 {
+  position:fixed;
+  margin-left:710px;
+  margin-top:490px;
+  font-family:cursive;
+  color:darkgreen;
+  display:none;
+}
+#title {
+  position:fixed;
+}
