@@ -2,146 +2,18 @@ $(document).ready(function(){
   bouncer();
   
 });
-//Could just use setInterval()..
+
 function bouncer() {
   $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  ('#message').effect("bounce", {times: 2}, 1000);
-  ('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
-  $('#message').effect("bounce", {times: 2}, 1000);
+  $('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);
+  $('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);$('#message').effect("bounce", {times: 2}, 1000);
 }
-
 function picturetaker() {
  $("#color").fadeOut('slow');
   $("#color").fadeIn('slow');
   var SNAP = new Audio(" http://soundjax.com/reddo/87572%5ECameraFlash.mp3");
 SNAP.play();
- var generatephotos = Math.floor(Math.random()*5+1);
+ var generatephotos = Math.floor(Math.random()*9+1);
  switch(generatephotos) {
    case 1:
      $("#funnyperson").delay(1000).fadeIn('slow');
@@ -174,5 +46,29 @@ SNAP.play();
     $("#crazybum").delay(2000).fadeOut('slow');
      $("#text5").delay(1000).fadeIn('slow');
      $("#text5").delay(2000).fadeOut('slow');
-}
+     break; 
+   case 6:
+     $("#asian").delay(1000).fadeIn('slow');
+    $("#asian").delay(2000).fadeOut('slow');
+     $("#text6").delay(1000).fadeIn('slow');
+  $("#text6").delay(2000).fadeOut('slow')
+    ;
+ break;
+   case 7: 
+     $("#gorilla").delay(1000).fadeIn('slow');
+    $("#gorilla").delay(2000).fadeOut('slow'); $("#text7").delay(1000).fadeIn('slow');
+$("#text7").delay(2000).fadeOut('slow');
+     break;
+   case 8:
+     $("#woman").delay(1000).fadeIn('slow');
+    $("#woman").delay(2000).fadeOut('slow');
+     $("#text8").delay(1000).fadeIn('slow');
+$("#text8").delay(2000).fadeOut('slow');
+     break;
+   case 9:
+     $("#uglybaby").delay(1000).fadeIn('slow');
+     $("#uglybaby").delay(2000).fadeOut('slow');
+     $("#text9").delay(1000).fadeIn('slow');
+     $("#text9").delay(2000).fadeOut('slow');
+ }
 }
