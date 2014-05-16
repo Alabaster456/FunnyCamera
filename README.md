@@ -4,7 +4,7 @@ FunnyCamera
 Summary
 -----
 
-Take a photo, a snapshot! This funny camera will show you on display! **You can use hit the spacebar as well**!
+Take a photo, a snapshot! This funny camera will show you on display! **You can use the spacebar as well to take a piccture**!
 
 This little camera is a funny one! You're bound to **smile** if not laugh, trust me! And if you don't, then you obviously don't have a sense of humor! Oh well!
 
